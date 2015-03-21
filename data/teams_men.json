@@ -1,0 +1,316 @@
+{
+"name": "NCAA Champion",
+"children": [{
+  "name": "Finalist",
+  "children": [
+    {"name": "East Champion",
+    "children": [
+      {"name": "East Elite 8 Team 1",
+      "children": [
+        {"name": "Villanova/Lafayete",
+         "children": [
+            {"name": "Villanova",
+             "children": [
+               {"name": "Villanova"},
+               {"name": "Lafayette"}
+             ]
+            },
+            {"name": "NC State",
+             "children": [
+              {"name": "NC State"},
+              {"name": "LSU"}
+             ]
+            }
+         ]
+        },
+        {"name": "N.Iowa/Louisville",
+         "children": [
+            {"name": "N. Iowa",
+             "children": [
+               {"name": "N. Iowa"},
+               {"name": "Wyoming"}
+             ]
+            },
+            {"name": "Louisville",
+             "children": [
+               {"name": "Louisville"},
+               {"name": "UC Irvine"}
+             ]
+            }
+         ]}
+      ]  
+  },  
+      {"name": "East Elite 8 Team 2",
+      "children": [
+        {"name": "Dayton/Oklahoma",
+         "children": [
+            {"name": "Dayton",
+             "children": [
+               {"name": "Providence"},
+               {"name": "Dayton"}
+             ]
+            },
+            {"name": "Oklahoma",
+             "children": [
+              {"name": "Oklahoma"},
+              {"name": "Albany"}
+             ]
+            }
+         ]
+        },
+        {"name": "Michigan St/UVA",
+         "children": [
+            {"name": "Michigan St.",
+             "children": [
+               {"name": "Michigan St."},
+               {"name": "UGA"}
+             ]
+            },
+            {"name": "UVA",
+             "children": [
+               {"name": "UVA"},
+               {"name": "Belmont"}
+             ]
+            }
+         ]}
+      ]  
+  }     
+    ]
+
+}, {"name": "South Champion",
+    "children": [
+{"name": "South Elite 8 Team 1",
+      "children": [
+        {"name": "Duke/SD St",
+         "children": [
+            {"name": "Duke",
+             "children": [
+               {"name": "Duke"},
+               {"name": "Robert Morris"}
+             ]
+            },
+            {"name": "San Diego St",
+             "children": [
+              {"name": "San Diego St"},
+              {"name": "St John's"}
+             ]
+            }
+         ]
+        },
+        {"name": "Utah/Georgetown",
+         "children": [
+            {"name": "Utah",
+             "children": [
+               {"name": "Utah"},
+               {"name": "SF Austin"}
+             ]
+            },
+            {"name": "Georgetown",
+             "children": [
+               {"name": "Georgetown"},
+               {"name": "E. Wash"}
+             ]
+            }
+         ]}
+      ]  
+  },  
+      {"name": "South Elite 8 Team 2",
+      "children": [
+        {"name": "UCLA",
+         "children": [
+            {"name": "UCLA",
+             "children": [
+               {"name": "SMU"},
+               {"name": "UCLA"}
+             ]
+            },
+            {"name": "UAB",
+             "children": [
+              {"name": "Iowa St"},
+              {"name": "UAB"}
+             ]
+            }
+         ]
+        },
+        {"name": "Iowa/Gonzaga",
+         "children": [
+            {"name": "Iowa",
+             "children": [
+               {"name": "Iowa"},
+               {"name": "Davidson"}
+             ]
+            },
+            {"name": "Gonzaga",
+             "children": [
+               {"name": "Gonzaga"},
+               {"name": "No Dak St."}
+             ]
+            }
+         ]}
+      ]  
+  }
+     ]
+   }
+]
+}, {
+"name": "Finalist",
+"children": [
+  {"name": "Midwest Champion",
+    "children": [
+      {"name": "Midwest Elite 8 Team 1",
+      "children": [
+        {"name": "Kentuky",
+         "children": [
+            {"name": "Kentucky",
+             "children": [
+               {"name": "Kentucky"},
+               {"name": "Hampton"}
+             ]
+            },
+            {"name": "Cincinnati",
+             "children": [
+              {"name": "Cincinnati"},
+              {"name": "Purdue"}
+             ]
+            }
+         ]
+        },
+        {"name": "West VA/Maryland",
+         "children": [
+            {"name": "West VA",
+             "children": [
+               {"name": "West VA"},
+               {"name": "Buffalo"}
+             ]
+            },
+            {"name": "Maryland",
+             "children": [
+               {"name": "Maryland"},
+               {"name": "Valparaiso"}
+             ]
+            }
+         ]}
+      ]  
+  },  
+      {"name": "Midwest Elite 8 Team 2",
+      "children": [
+        {"name": "Butler/Notre Dame",
+         "children": [
+            {"name": "Butler",
+             "children": [
+               {"name": "Butler"},
+               {"name": "Texas"}
+             ]
+            },
+            {"name": "Notre Dame",
+             "children": [
+              {"name": "Notre Dame"},
+              {"name": "Northeastern"}
+             ]
+            }
+         ]
+        },
+        {"name": "Wichita St/Kansas",
+         "children": [
+            {"name": "Wichita St",
+             "children": [
+               {"name": "Wichita St"},
+               {"name": "Indiana"}
+             ]
+            },
+            {"name": "Kansas",
+             "children": [
+               {"name": "Kansas"},
+               {"name": "New Mexico St"}
+             ]
+            }
+         ]}
+      ]  
+  }
+      
+      
+      
+    ]
+
+}, 
+  {"name": "West Champion",
+    "children": [
+      {"name": "West Elite 8 Team 1",
+      "children": [
+        {"name": "Wisconsin/Oregon",
+         "children": [
+            {"name": "Wisconsin",
+             "children": [
+               {"name": "Wisconsin"},
+               {"name": "Coast Car"}
+             ]
+            },
+            {"name": "Oregon",
+             "children": [
+              {"name": "Oregon"},
+              {"name": "Oklahoma St"}
+             ]
+            }
+         ]
+        },
+        {"name": "Arkansas/UNC",
+         "children": [
+            {"name": "Arkansas",
+             "children": [
+               {"name": "Arkansas"},
+               {"name": "Wofford"}
+             ]
+            },
+            {"name": "UNC",
+             "children": [
+               {"name": "UNC"},
+               {"name": "Harvard"}
+             ]
+            }
+         ]}
+      ]  
+  },  
+      {"name": "West Elite 8 Team 2",
+      "children": [
+        {"name": "Xavier/GA St",
+         "children": [
+            {"name": "Xavier",
+             "children": [
+               {"name": "Xavier"},
+               {"name": "Mississippi"}
+             ]
+            },
+            {"name": "GA St",
+             "children": [
+              {"name": "Baylor"},
+              {"name": "GA St"}
+             ]
+            }
+         ]
+        },
+        {"name": "Ohio St/Arizona",
+         "children": [
+            {"name": "Ohio St",
+             "children": [
+               {"name": "VCU"},
+               {"name": "Ohio St"}
+             ]
+            },
+            {"name": "Arizona",
+             "children": [
+               {"name": "Arizona"},
+               {"name": "Texas So"}
+             ]
+            }
+         ]}
+      ]  
+  }
+      
+      
+      
+    ]
+}
+  ]
+}
+  ]
+}
