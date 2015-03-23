@@ -7,7 +7,7 @@
     "children": [
       {"name": "East Elite 8 Team 1",
       "children": [
-        {"name": "Villanova/Lafayete",
+        {"name": "NC State",
          "children": [
             {"name": "Villanova",
              "children": [
@@ -23,7 +23,7 @@
             }
          ]
         },
-        {"name": "N.Iowa/Louisville",
+        {"name": "Louisville",
          "children": [
             {"name": "N. Iowa",
              "children": [
@@ -42,7 +42,7 @@
   },  
       {"name": "East Elite 8 Team 2",
       "children": [
-        {"name": "Dayton/Oklahoma",
+        {"name": "Oklahoma",
          "children": [
             {"name": "Dayton",
              "children": [
@@ -58,7 +58,7 @@
             }
          ]
         },
-        {"name": "Michigan St/UVA",
+        {"name": "Michigan St",
          "children": [
             {"name": "Michigan St.",
              "children": [
@@ -81,7 +81,7 @@
     "children": [
 {"name": "South Elite 8 Team 1",
       "children": [
-        {"name": "Duke/SD St",
+        {"name": "Duke",
          "children": [
             {"name": "Duke",
              "children": [
@@ -97,7 +97,7 @@
             }
          ]
         },
-        {"name": "Utah/Georgetown",
+        {"name": "Utah",
          "children": [
             {"name": "Utah",
              "children": [
@@ -132,7 +132,7 @@
             }
          ]
         },
-        {"name": "Iowa/Gonzaga",
+        {"name": "Gonzaga",
          "children": [
             {"name": "Iowa",
              "children": [
@@ -175,7 +175,7 @@
             }
          ]
         },
-        {"name": "West VA/Maryland",
+        {"name": "West VA",
          "children": [
             {"name": "West VA",
              "children": [
@@ -194,7 +194,7 @@
   },  
       {"name": "Midwest Elite 8 Team 2",
       "children": [
-        {"name": "Butler/Notre Dame",
+        {"name": "Notre Dame",
          "children": [
             {"name": "Butler",
              "children": [
@@ -210,7 +210,7 @@
             }
          ]
         },
-        {"name": "Wichita St/Kansas",
+        {"name": "Wichita St",
          "children": [
             {"name": "Wichita St",
              "children": [
@@ -237,7 +237,7 @@
     "children": [
       {"name": "West Elite 8 Team 1",
       "children": [
-        {"name": "Wisconsin/Oregon",
+        {"name": "Wisconsin",
          "children": [
             {"name": "Wisconsin",
              "children": [
@@ -253,7 +253,7 @@
             }
          ]
         },
-        {"name": "Arkansas/UNC",
+        {"name": "UNC",
          "children": [
             {"name": "Arkansas",
              "children": [
@@ -272,7 +272,7 @@
   },  
       {"name": "West Elite 8 Team 2",
       "children": [
-        {"name": "Xavier/GA St",
+        {"name": "Xavier",
          "children": [
             {"name": "Xavier",
              "children": [
@@ -288,7 +288,7 @@
             }
          ]
         },
-        {"name": "Ohio St/Arizona",
+        {"name": "Arizona",
          "children": [
             {"name": "Ohio St",
              "children": [
@@ -305,9 +305,6 @@
          ]}
       ]  
   }
-      
-      
-      
     ]
 }
   ]
