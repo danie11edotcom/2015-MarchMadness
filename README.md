@@ -1,4 +1,4 @@
 # 2015-MarchMadness
 
-A [cluster dendrogram]([I'm an inline-style link](https://www.google.com)) of the 2015 NCAA Men's Basketball Tournament using d3.js
+A [cluster dendrogram](http://danie11edotcom.github.io/2015-MarchMadness/) of the 2015 NCAA Men's Basketball Tournament using d3.js
 
