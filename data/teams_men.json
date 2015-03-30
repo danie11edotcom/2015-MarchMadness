@@ -3,9 +3,9 @@
 "children": [{
   "name": "Finalist",
   "children": [
-    {"name": "East Champion",
+    {"name": "Michigan St",
     "children": [
-      {"name": "East Elite 8 Team 1",
+      {"name": "Louisville",
       "children": [
         {"name": "NC State",
          "children": [
@@ -40,7 +40,7 @@
          ]}
       ]  
   },  
-      {"name": "East Elite 8 Team 2",
+      {"name": "Michigan St",
       "children": [
         {"name": "Oklahoma",
          "children": [
@@ -60,9 +60,9 @@
         },
         {"name": "Michigan St",
          "children": [
-            {"name": "Michigan St.",
+            {"name": "Michigan St",
              "children": [
-               {"name": "Michigan St."},
+               {"name": "Michigan St"},
                {"name": "UGA"}
              ]
             },
@@ -77,9 +77,9 @@
   }     
     ]
 
-}, {"name": "South Champion",
+}, {"name": "Duke",
     "children": [
-{"name": "South Elite 8 Team 1",
+{"name": "Duke",
       "children": [
         {"name": "Duke",
          "children": [
@@ -114,7 +114,7 @@
          ]}
       ]  
   },  
-      {"name": "South Elite 8 Team 2",
+      {"name": "Gonzaga",
       "children": [
         {"name": "UCLA",
          "children": [
@@ -155,11 +155,11 @@
 }, {
 "name": "Finalist",
 "children": [
-  {"name": "Midwest Champion",
+  {"name": "Kentucky",
     "children": [
-      {"name": "Midwest Elite 8 Team 1",
+      {"name": "Kentucky",
       "children": [
-        {"name": "Kentuky",
+        {"name": "Kentucky",
          "children": [
             {"name": "Kentucky",
              "children": [
@@ -192,7 +192,7 @@
          ]}
       ]  
   },  
-      {"name": "Midwest Elite 8 Team 2",
+      {"name": "Notre Dame",
       "children": [
         {"name": "Notre Dame",
          "children": [
@@ -233,9 +233,9 @@
     ]
 
 }, 
-  {"name": "West Champion",
+  {"name": "Wisconsin",
     "children": [
-      {"name": "West Elite 8 Team 1",
+      {"name": "Wisconsin",
       "children": [
         {"name": "Wisconsin",
          "children": [
@@ -270,7 +270,7 @@
          ]}
       ]  
   },  
-      {"name": "West Elite 8 Team 2",
+      {"name": "Arizona",
       "children": [
         {"name": "Xavier",
          "children": [
