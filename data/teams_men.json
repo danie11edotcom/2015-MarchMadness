@@ -3,7 +3,7 @@
 "children": [{
   "name": "Finalist",
   "children": [
-    {"name": "East Champion",
+    {"name": "Michigan St",
     "children": [
       {"name": "Louisville",
       "children": [
@@ -77,7 +77,7 @@
   }     
     ]
 
-}, {"name": "South Champion",
+}, {"name": "Duke",
     "children": [
 {"name": "Duke",
       "children": [
@@ -155,7 +155,7 @@
 }, {
 "name": "Finalist",
 "children": [
-  {"name": "Midwest Champion",
+  {"name": "Kentucky",
     "children": [
       {"name": "Kentucky",
       "children": [
@@ -233,7 +233,7 @@
     ]
 
 }, 
-  {"name": "West Champion",
+  {"name": "Wisconsin",
     "children": [
       {"name": "Wisconsin",
       "children": [
