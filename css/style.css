@@ -18,7 +18,9 @@ body {
 }
 
 .node text {
-  font: 12px sans-serif;
+  font: 14px sans-serif;
+  fill: #fff;
+  font-weight: 400;
 }
 
 .link {
@@ -65,4 +67,13 @@ section {
   height: 960px;
   margin-left: auto;
   margin-right: auto;
+}
+
+text {
+  font: 36px sans-serif;
+}
+
+svg {
+ -webkit-transform:rotate(0deg);
+  transform: rotate(0deg)
 }
