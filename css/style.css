@@ -2,7 +2,7 @@
 
 body {
   text-align: center;
-  background: #fff;
+  background-color: rgba(70,130,180,1);
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -54,7 +54,6 @@ h2 {
 
 main {
   margin: 0 auto;
-  background: #fff;
   text-align: center;
   width: 100%;
   background-color: rgba(70,130,180,1);
