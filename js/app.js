@@ -1,18 +1,13 @@
 (function() {
   'use strict';
   
-  var margin = {top: 20, right: 120, bottom: 20, left: 120},
-      width = 960 - margin.right - margin.left;
-      height = 800 - margin.top - margin.bottom;
-
+  var margin = {top: 20, right: 120, bottom: 20, left: 120};
+  var width = 960 - margin.right - margin.left;
+  var height = 800 - margin.top - margin.bottom;
   var radius = 960 / 2;
-
-  var cluster = d3.layout.cluster()
-    .size([360, radius - 120]);
-
+  var cluster = d3.layout.cluster().size([360, radius - 120]);
   var diagonal = d3.svg.diagonal.radial()
     .projection(function(d) { return [d.y, d.x / 180 * Math.PI]; });
-
   var svg = d3.select("#brackets").append("svg")
     .attr("width", radius * 2 )
     .attr("height", radius * 2)
